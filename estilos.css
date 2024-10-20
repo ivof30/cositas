@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+}
+.bonito{
+    background-color: rgb(31, 30, 30);
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column-reverse;
+    margin: 30px;
+}
+.titulo{
+    color: aliceblue;
+    text-align: center;
+    border-bottom: solid #f5efff 1px;
+    width: 200px;
+    font-family: "Playwrite GB S", cursive;
+    font-weight: 300;
+}
+.logo-container{
+    height: 200px;
+}
+.logo{
+    height: 50%;
+}
+.juego-container{
+    height: 910px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f5efff;
+}
+.giff-conteiner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.giff{
+    height: 300px;
+}
+.texto-1{
+    background-color: rgb(31, 30, 30);
+    margin: 250px;
+    height: 30px;
+    text-align: center;
+    color: #f5efff;
+    font-weight: 100;
+}
+.texto-2{
+    color: #690b55;
+    background-color: #ccc4d4;
+    text-align: center;
+    height: 200px;
+}
+.texto-3{
+    background-color: #ccc4d4;
+    text-align: center;
+    height: 200px;
+}
